@@ -1,1 +1,1 @@
-#O primeiro passo consiste em criar um projeto no Code::Blocks
+# O primeiro passo consiste em criar um projeto no Code::Blocks
